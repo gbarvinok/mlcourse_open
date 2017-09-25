@@ -106,3 +106,4 @@ ENV/
 /.idea/
 /out/
 *.iml
+jupyter_notebooks/topic01_pandas_data_analysis/[solution]_hw1_session2_data_analysis_pandas.ipynb
